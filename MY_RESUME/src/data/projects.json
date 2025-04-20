@@ -1,0 +1,16 @@
+[
+  {
+    "title": "ATM Simulation",
+    "imageSrc": "projects/p1.jpg",
+    "description": "ATM system using Java and MySQL with real-time transactions and core banking operations like deposit, withdrawal, and transfer. Integrated using JDBC and Maven.",
+    "skills": ["Java", "MySQL", "JDBC", "Maven"]
+  },
+  {
+    "title": "World Population Growth Visualization",
+    "imageSrc": "projects/p2.jpg",
+    "description": "Visualized global population trends using Tableau with datasets from World Bank and Kaggle. Included interactive charts and maps for country-wise insights and analysis.",
+    "skills": ["Tableau", "Excel", "Data Visualization"]
+  }  
+  
+  
+]

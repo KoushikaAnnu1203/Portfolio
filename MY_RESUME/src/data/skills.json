@@ -1,0 +1,47 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  
+  {
+    "title": "JAVA",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.webp"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.webp"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.jpg"
+  }
+
+  
+]
